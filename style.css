@@ -18,7 +18,7 @@
 
 body{
   
-  background: #2c2c2e;
+  background: #000000;
    /* background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c2cad4), color-stop(100%, #434b55)) fixed;
     background: #6c7989 -webkit-linear-gradient(#c2cad4, #434b55) fixed;
     background: #6c7989 -moz-linear-gradient(#c2cad4, #434b55) fixed;
@@ -41,7 +41,7 @@ body .container {
   width: 500px;
   border-top: 10px solid #fff;
 
-  background: #2d2d40;
+  background: #1d2a30;
  /*background: -webkit-gradient(linear, 50% 50%, 50% 700, color-stop(50%, #53919c), color-stop(100%, #fbdbd2));
   background: -webkit-linear-gradient(#53919c,#fbdbd2 700px);
   background: -moz-linear-gradient(#53919c, #fbdbd2 700px);
@@ -161,14 +161,14 @@ body .container .player .progress-box .progress-cell {
   position: relative;
 }
 body .container .player .progress-box .progress-cell .progress {
-  background:#a18272;
+  background:#5e5d5c;
   border: 1px solid #d9d9d9;
   height: 8px;
   position: relative;
   width: auto;
 }
 body .container .player .progress-box .progress-cell .progress .progress-buffer {
-  background: #337ab7;
+  background: #ffffff;
   height: 100%;
   width: 0;
 }
@@ -228,10 +228,10 @@ body .container .play-list .play-list-row {
   *zoom: 1;
 }
 body .container .play-list .play-list-row .track-title .playlist-track {
-  color: #1c2a6f;
+  color: #ffffff;
   text-decoration: none;
   font-size: 18px;
-  background: #87f3ff8c;
+  /*background: #87f3ff8c;*/
 }
 body .container .play-list .play-list-row .track-title .playlist-track:hover {
   text-decoration: underline;
